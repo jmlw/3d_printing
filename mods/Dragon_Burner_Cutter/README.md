@@ -25,3 +25,6 @@ Use standard Voron print settings
 
 ![](images/dragon_burner_cutter_trigger_trident_in_use.jpeg)
 
+### Changelog
+2025-08-27 - stl and cad updated to give clearance for x gantry joints and make the full trigger arm beefier to reduce deflection
+
