@@ -20,5 +20,12 @@ Modified guidler built-in support to include a branch that touches the print bed
 Custom trigger arm for the Dragon Burner Cutter to work for a Voron Trident using the Dragon Burner toolhead with the Dragon Burner Cutter and MGN9H X Gantry mount.
 
 
+### [Sherpa Mini](https://github.com/Annex-Engineering/ANNEX-Engineering-License-Agreement)
+
+#### [Sherpa Mini Filament Sensor with ECAS](mods/Annex-Engineering/Sherpa_Mini-Extruder)
+
+Modifies the Sherpa Mini Housing Core to include a filament sensor using a D2F switch and 4mm ball bearing as well as include an ECAS04 fitting to retain the bowden tube for use with multi-material units.
+
+Annex Engineering licence also applies to mods for Annex-Engineering projects: https://github.com/Annex-Engineering/ANNEX-Engineering-License-Agreement
 
 
