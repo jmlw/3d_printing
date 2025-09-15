@@ -2,6 +2,8 @@
 
 ## [Housing Core with Filament Sensor and ECAS](housing_core)
 
+![housing core with filament sensor and ecas](housing_core/housing_core_with_filament_sensor_and_ecas.png)
+
 This remix was created specifically to enable adding a pre-extruder toolhead filament sensor and ECAS connector without adding significant height. Bowden path also supported from the ECAS connector down into the body to ensure that MMU units like ArmoredTurtle BoxTurtle will not have obstructions when feeding filament during filament swaps. So far this design been reliable for 100's of swaps and has reliably detected issues with filament load/unload and filament runout.
 
 ### Print Settings
