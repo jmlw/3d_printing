@@ -28,4 +28,10 @@ Modifies the Sherpa Mini Housing Core to include a filament sensor using a D2F s
 
 Annex Engineering licence also applies to mods for Annex-Engineering projects: https://github.com/Annex-Engineering/ANNEX-Engineering-License-Agreement
 
+### [Crossbow Filament Cutter](https://github.com/DW-Tas/Crossbow-Filament-Cutter)
+
+#### [Sherpa Mini Riser for Crossbow Filament Cutter](mods/DW-Tas/Crossbow-Filament-Cutter/sherpa_mini_riser)
+
+Provides a spacer which allows Crossbow Filament Cutter using the Crossbow Cutter Holder to fully actuate with a Sherpa Mini mounted on it.
+
 
